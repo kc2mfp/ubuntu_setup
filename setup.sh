@@ -20,4 +20,4 @@ apt-get install nmap
 #apt-get install docker-ce docker-ce-cli containerd.io
 
 #Install wordpress
-udo apt install wordpress php libapache2-mod-php mysql-server php-mysql
+sudo apt install wordpress php libapache2-mod-php mysql-server php-mysql
