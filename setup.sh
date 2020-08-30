@@ -21,3 +21,6 @@ apt-get install nmap
 
 #Install wordpress
 sudo apt install wordpress php libapache2-mod-php mysql-server php-mysql
+
+#Installing VNC
+sudo apt install realvnc-vnc-server realvnc-vnc-viewer
