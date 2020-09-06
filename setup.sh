@@ -24,3 +24,8 @@ sudo apt install wordpress php libapache2-mod-php mysql-server php-mysql
 
 #Installing VNC
 sudo apt install realvnc-vnc-server realvnc-vnc-viewer
+
+#install and setup mysql
+sudo apt install mysql-server
+sudo mysql_secure_installation
+
